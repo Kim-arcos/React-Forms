@@ -1,0 +1,46 @@
+input:invalid {
+    border: 1px solid red;
+  }
+  
+  input:valid {
+    border: 1px solid rgb(11, 243, 11);
+  }
+
+body {
+    background-color: rgb(127, 96, 167);
+    place-items: center;
+}
+
+.small-button {
+    font-size: 15px;
+    padding: 4px 8px;
+}
+
+.root{
+    border: 2px, solid black;
+    padding: 10px;
+
+}
+.form-container{
+    margin-left: 50px;
+    border: 2px, solid black;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-container2{
+    margin-left: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    color: black;
+    border: 2px;
+    border-color: black;
+    
+}
+label{
+    color:black;
+}
