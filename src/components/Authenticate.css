@@ -22,14 +22,15 @@ body {
 
 }
 .form-container{
-    margin-left: 50px;
-    border: 2px, solid black;
+    border: solid 20px rgb(51, 11, 51);
+    margin-left: 10px;
     padding: 10px;
     justify-content: center;
     align-items: center;
 }
 
 .form-container2{
+    border: solid 10px rgb(51, 11, 51);
     margin-left: 50px;
     justify-content: center;
     align-items: center;
@@ -37,8 +38,8 @@ body {
 
 h2{
     color: black;
-    border: 2px;
-    border-color: black;
+    border: solid 2px;
+    border-color: solid black;
     
 }
 label{
